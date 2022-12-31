@@ -191,7 +191,7 @@ p {
   border-bottom-left-radius: var(--radius);
   border-color: transparent;
   font-size: 1rem;
-  flex: 1 0 auto;
+  width: 90%;
   color: var(--clr-grey-5);
 }
 
